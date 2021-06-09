@@ -69,6 +69,9 @@
                      </div>
 
 
+
+
+
           @endforeach
 
            {{ $posts->links() }}
